@@ -1,0 +1,25 @@
+
+h1.titulo {
+    color: blue;
+}
+
+p.resultado {
+    font-size: 1.3em;
+    color: red;
+}
+
+.submit {
+	font-size: 1.0em;
+    width: 120px;
+    margin-right: 6px;
+    margin-bottom: 10px;
+}
+
+.corpo{
+	padding: 10% 40%;	
+}
+
+.imc{
+	width: 120px;
+	font-size: 1.0em;
+}
