@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+
+.container-fluid {
+	color: black;
+	padding: 1rem;
+	height: 50%;
+	background-image: url("../imagens/background.png");
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 1rem;
+}
+
+.nav-item a {
+	font-size: 1.3em;
+	font-family: Megrim, cursive;
+}
+
+body {
+	height: 100%;
+	overflow-x: hidden;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: #8cb6fa;
+}
+
+h3 {
+	color: white;
+	font-family: Megrim, cursive;
+}
+
+h2 {
+	font-family: Megrim, cursive;
+}
